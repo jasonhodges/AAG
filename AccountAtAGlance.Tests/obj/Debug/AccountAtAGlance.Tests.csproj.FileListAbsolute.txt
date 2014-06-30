@@ -1,0 +1,198 @@
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\AccountAtAGlance2012\AccountAtAGlance.Tests\obj\Debug\AccountAtAGlance.Tests.csprojResolveAssemblyReference.cache
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\AccountAtAGlance2012\AccountAtAGlance.Tests\bin\Debug\AccountAtAGlance.Tests.dll
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\AccountAtAGlance2012\AccountAtAGlance.Tests\bin\Debug\AccountAtAGlance.Tests.pdb
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\AccountAtAGlance2012\AccountAtAGlance.Tests\bin\Debug\AccountAtAGlance.dll
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\AccountAtAGlance2012\AccountAtAGlance.Tests\bin\Debug\System.Web.Http.dll
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\AccountAtAGlance2012\AccountAtAGlance.Tests\bin\Debug\AccountAtAGlance.Repository.dll
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\AccountAtAGlance2012\AccountAtAGlance.Tests\bin\Debug\AccountAtAGlance.Model.dll
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\AccountAtAGlance2012\AccountAtAGlance.Tests\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\AccountAtAGlance2012\AccountAtAGlance.Tests\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\AccountAtAGlance2012\AccountAtAGlance.Tests\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\AccountAtAGlance2012\AccountAtAGlance.Tests\bin\Debug\EntityFramework.dll
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\AccountAtAGlance2012\AccountAtAGlance.Tests\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\AccountAtAGlance2012\AccountAtAGlance.Tests\bin\Debug\AccountAtAGlance.pdb
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\AccountAtAGlance2012\AccountAtAGlance.Tests\bin\Debug\System.Web.Http.xml
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\AccountAtAGlance2012\AccountAtAGlance.Tests\bin\Debug\AccountAtAGlance.Repository.pdb
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\AccountAtAGlance2012\AccountAtAGlance.Tests\bin\Debug\AccountAtAGlance.Model.pdb
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\AccountAtAGlance2012\AccountAtAGlance.Tests\bin\Debug\Microsoft.Practices.Unity.xml
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\AccountAtAGlance2012\AccountAtAGlance.Tests\bin\Debug\System.Web.Http.WebHost.xml
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\AccountAtAGlance2012\AccountAtAGlance.Tests\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\AccountAtAGlance2012\AccountAtAGlance.Tests\bin\Debug\EntityFramework.xml
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\AccountAtAGlance2012\AccountAtAGlance.Tests\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\AccountAtAGlance2012\AccountAtAGlance.Tests\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\AccountAtAGlance2012\AccountAtAGlance.Tests\obj\Debug\AccountAtAGlance.Tests.dll
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\AccountAtAGlance2012\AccountAtAGlance.Tests\obj\Debug\AccountAtAGlance.Tests.pdb
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\AccountAtAGlance2012\AccountAtAGlance.Tests\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\AccountAtAGlance2012\AccountAtAGlance.Tests\obj\Debug\AccountAtAGlance.Tests.csprojFakesResolveAssemblyReference.cache
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\AccountAtAGlance2012\AccountAtAGlance.Tests\obj\Debug\Fakes\aaagr\b\AccountAtAGlance.Model.dll
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\AccountAtAGlance2012\AccountAtAGlance.Tests\obj\Debug\Fakes\aaagr\b\AccountAtAGlance.Model.pdb
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\AccountAtAGlance2012\AccountAtAGlance.Tests\obj\Debug\Fakes\aaagr\b\AccountAtAGlance.Repository.dll
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\AccountAtAGlance2012\AccountAtAGlance.Tests\obj\Debug\Fakes\aaagr\b\AccountAtAGlance.Repository.Fakes.dll
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\AccountAtAGlance2012\AccountAtAGlance.Tests\obj\Debug\Fakes\aaagr\b\AccountAtAGlance.Repository.Fakes.pdb
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\AccountAtAGlance2012\AccountAtAGlance.Tests\obj\Debug\Fakes\aaagr\b\AccountAtAGlance.Repository.Fakes.xml
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\AccountAtAGlance2012\AccountAtAGlance.Tests\obj\Debug\Fakes\aaagr\b\AccountAtAGlance.Repository.pdb
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\AccountAtAGlance2012\AccountAtAGlance.Tests\obj\Debug\Fakes\aaagr\b\EntityFramework.dll
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\AccountAtAGlance2012\AccountAtAGlance.Tests\obj\Debug\Fakes\aaagr\b\EntityFramework.xml
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\AccountAtAGlance2012\AccountAtAGlance.Tests\obj\Debug\Fakes\aaagr\b\Microsoft.QualityTools.Testing.Fakes.dll
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\AccountAtAGlance2012\AccountAtAGlance.Tests\obj\Debug\Fakes\aaagr\f.ah
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\AccountAtAGlance2012\AccountAtAGlance.Tests\obj\Debug\Fakes\aaagr\f.ch
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\AccountAtAGlance2012\AccountAtAGlance.Tests\obj\Debug\Fakes\aaagr\f.cs
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\AccountAtAGlance2012\AccountAtAGlance.Tests\obj\Debug\Fakes\aaagr\f.csproj
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\AccountAtAGlance2012\AccountAtAGlance.Tests\obj\Debug\Fakes\aaagr\f.fakes
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\AccountAtAGlance2012\AccountAtAGlance.Tests\obj\Debug\Fakes\aaagr\f.fakesconfig
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\AccountAtAGlance2012\AccountAtAGlance.Tests\obj\Debug\Fakes\aaagr\o\AccountAtAGlance.Repository.Fakes.dll
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\AccountAtAGlance2012\AccountAtAGlance.Tests\obj\Debug\Fakes\aaagr\o\AccountAtAGlance.Repository.Fakes.pdb
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\AccountAtAGlance2012\AccountAtAGlance.Tests\obj\Debug\Fakes\aaagr\o\f.csproj.FileListAbsolute.txt
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\AccountAtAGlance2012\AccountAtAGlance.Tests\obj\Debug\Fakes\aaagr\o\f.csprojResolveAssemblyReference.cache
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\AccountAtAGlance2012\AccountAtAGlance.Tests\obj\Debug\Fakes\fakes.args
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\AccountAtAGlance2012\AccountAtAGlance.Tests\bin\Debug\AccountAtAGlance.Tests.dll.config
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\AccountAtAGlance2012\AccountAtAGlance.Tests\bin\Debug\AccountAtAGlance.Repository.Fakes.dll
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\AccountAtAGlance2012\AccountAtAGlance.Tests\bin\Debug\AccountAtAGlance.Repository.Fakes.xml
+C:\Users\wahlind\Desktop\AccountAtAGlance2012\AccountAtAGlance.Tests\obj\Debug\AccountAtAGlance.Tests.csprojFakesResolveAssemblyReference.cache
+C:\Users\wahlind\Desktop\AccountAtAGlance2012\AccountAtAGlance.Tests\obj\Debug\Fakes\aaagr\b\AccountAtAGlance.Model.dll
+C:\Users\wahlind\Desktop\AccountAtAGlance2012\AccountAtAGlance.Tests\obj\Debug\Fakes\aaagr\b\AccountAtAGlance.Model.pdb
+C:\Users\wahlind\Desktop\AccountAtAGlance2012\AccountAtAGlance.Tests\obj\Debug\Fakes\aaagr\b\AccountAtAGlance.Repository.dll
+C:\Users\wahlind\Desktop\AccountAtAGlance2012\AccountAtAGlance.Tests\obj\Debug\Fakes\aaagr\b\AccountAtAGlance.Repository.Fakes.dll
+C:\Users\wahlind\Desktop\AccountAtAGlance2012\AccountAtAGlance.Tests\obj\Debug\Fakes\aaagr\b\AccountAtAGlance.Repository.Fakes.pdb
+C:\Users\wahlind\Desktop\AccountAtAGlance2012\AccountAtAGlance.Tests\obj\Debug\Fakes\aaagr\b\AccountAtAGlance.Repository.Fakes.xml
+C:\Users\wahlind\Desktop\AccountAtAGlance2012\AccountAtAGlance.Tests\obj\Debug\Fakes\aaagr\b\AccountAtAGlance.Repository.pdb
+C:\Users\wahlind\Desktop\AccountAtAGlance2012\AccountAtAGlance.Tests\obj\Debug\Fakes\aaagr\b\EntityFramework.dll
+C:\Users\wahlind\Desktop\AccountAtAGlance2012\AccountAtAGlance.Tests\obj\Debug\Fakes\aaagr\b\EntityFramework.xml
+C:\Users\wahlind\Desktop\AccountAtAGlance2012\AccountAtAGlance.Tests\obj\Debug\Fakes\aaagr\b\Microsoft.QualityTools.Testing.Fakes.dll
+C:\Users\wahlind\Desktop\AccountAtAGlance2012\AccountAtAGlance.Tests\obj\Debug\Fakes\aaagr\f.ah
+C:\Users\wahlind\Desktop\AccountAtAGlance2012\AccountAtAGlance.Tests\obj\Debug\Fakes\aaagr\f.ch
+C:\Users\wahlind\Desktop\AccountAtAGlance2012\AccountAtAGlance.Tests\obj\Debug\Fakes\aaagr\f.cs
+C:\Users\wahlind\Desktop\AccountAtAGlance2012\AccountAtAGlance.Tests\obj\Debug\Fakes\aaagr\f.csproj
+C:\Users\wahlind\Desktop\AccountAtAGlance2012\AccountAtAGlance.Tests\obj\Debug\Fakes\aaagr\f.fakes
+C:\Users\wahlind\Desktop\AccountAtAGlance2012\AccountAtAGlance.Tests\obj\Debug\Fakes\aaagr\f.fakesconfig
+C:\Users\wahlind\Desktop\AccountAtAGlance2012\AccountAtAGlance.Tests\obj\Debug\Fakes\aaagr\o\AccountAtAGlance.Repository.Fakes.dll
+C:\Users\wahlind\Desktop\AccountAtAGlance2012\AccountAtAGlance.Tests\obj\Debug\Fakes\aaagr\o\AccountAtAGlance.Repository.Fakes.pdb
+C:\Users\wahlind\Desktop\AccountAtAGlance2012\AccountAtAGlance.Tests\obj\Debug\Fakes\aaagr\o\f.csproj.FileListAbsolute.txt
+C:\Users\wahlind\Desktop\AccountAtAGlance2012\AccountAtAGlance.Tests\obj\Debug\Fakes\aaagr\o\f.csprojResolveAssemblyReference.cache
+C:\Users\wahlind\Desktop\AccountAtAGlance2012\AccountAtAGlance.Tests\obj\Debug\Fakes\fakes.args
+C:\Users\wahlind\Desktop\AccountAtAGlance2012\AccountAtAGlance.Tests\obj\Debug\AccountAtAGlance.Tests.csprojResolveAssemblyReference.cache
+C:\Users\wahlind\Desktop\AccountAtAGlance2012\AccountAtAGlance.Tests\obj\Debug\AccountAtAGlance.Tests.dll
+C:\Users\wahlind\Desktop\AccountAtAGlance2012\AccountAtAGlance.Tests\obj\Debug\AccountAtAGlance.Tests.pdb
+C:\Users\wahlind\Desktop\AccountAtAGlance2012\AccountAtAGlance.Tests\bin\Debug\AccountAtAGlance.Tests.dll.config
+C:\Users\wahlind\Desktop\AccountAtAGlance2012\AccountAtAGlance.Tests\bin\Debug\AccountAtAGlance.Tests.dll
+C:\Users\wahlind\Desktop\AccountAtAGlance2012\AccountAtAGlance.Tests\bin\Debug\AccountAtAGlance.Tests.pdb
+C:\Users\wahlind\Desktop\AccountAtAGlance2012\AccountAtAGlance.Tests\bin\Debug\AccountAtAGlance.Repository.Fakes.fakesconfig
+C:\Users\wahlind\Desktop\AccountAtAGlance2012\AccountAtAGlance.Tests\bin\Debug\AccountAtAGlance.dll
+C:\Users\wahlind\Desktop\AccountAtAGlance2012\AccountAtAGlance.Tests\bin\Debug\AccountAtAGlance.Model.dll
+C:\Users\wahlind\Desktop\AccountAtAGlance2012\AccountAtAGlance.Tests\bin\Debug\AccountAtAGlance.Repository.dll
+C:\Users\wahlind\Desktop\AccountAtAGlance2012\AccountAtAGlance.Tests\bin\Debug\AccountAtAGlance.Repository.Fakes.dll
+C:\Users\wahlind\Desktop\AccountAtAGlance2012\AccountAtAGlance.Tests\bin\Debug\EntityFramework.dll
+C:\Users\wahlind\Desktop\AccountAtAGlance2012\AccountAtAGlance.Tests\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+C:\Users\wahlind\Desktop\AccountAtAGlance2012\AccountAtAGlance.Tests\bin\Debug\System.Web.Http.dll
+C:\Users\wahlind\Desktop\AccountAtAGlance2012\AccountAtAGlance.Tests\bin\Debug\System.Web.Optimization.dll
+C:\Users\wahlind\Desktop\AccountAtAGlance2012\AccountAtAGlance.Tests\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\wahlind\Desktop\AccountAtAGlance2012\AccountAtAGlance.Tests\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\wahlind\Desktop\AccountAtAGlance2012\AccountAtAGlance.Tests\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\wahlind\Desktop\AccountAtAGlance2012\AccountAtAGlance.Tests\bin\Debug\WebGrease.dll
+C:\Users\wahlind\Desktop\AccountAtAGlance2012\AccountAtAGlance.Tests\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\wahlind\Desktop\AccountAtAGlance2012\AccountAtAGlance.Tests\bin\Debug\Antlr3.Runtime.dll
+C:\Users\wahlind\Desktop\AccountAtAGlance2012\AccountAtAGlance.Tests\bin\Debug\AccountAtAGlance.Model.pdb
+C:\Users\wahlind\Desktop\AccountAtAGlance2012\AccountAtAGlance.Tests\bin\Debug\AccountAtAGlance.Repository.pdb
+C:\Users\wahlind\Desktop\AccountAtAGlance2012\AccountAtAGlance.Tests\bin\Debug\AccountAtAGlance.pdb
+C:\Users\wahlind\Desktop\AccountAtAGlance2012\AccountAtAGlance.Tests\bin\Debug\AccountAtAGlance.Repository.Fakes.xml
+C:\Users\wahlind\Desktop\AccountAtAGlance2012\AccountAtAGlance.Tests\bin\Debug\EntityFramework.xml
+C:\Users\wahlind\Desktop\AccountAtAGlance2012\AccountAtAGlance.Tests\bin\Debug\System.Web.Http.xml
+C:\Users\wahlind\Desktop\AccountAtAGlance2012\AccountAtAGlance.Tests\bin\Debug\Microsoft.Practices.Unity.xml
+C:\Users\wahlind\Desktop\AccountAtAGlance2012\AccountAtAGlance.Tests\bin\Debug\System.Web.Http.WebHost.xml
+C:\Users\wahlind\Desktop\AccountAtAGlance2012\AccountAtAGlance.Tests\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\wahlind\Desktop\AccountAtAGlance2012\AccountAtAGlance.Tests\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\wahlind\Desktop\AccountAtAGlance2012\AccountAtAGlance.Tests\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\AccountAtAGlance2012\AccountAtAGlance.Tests\bin\Debug\System.Web.Optimization.dll
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\AccountAtAGlance2012\AccountAtAGlance.Tests\bin\Debug\WebGrease.dll
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\AccountAtAGlance2012\AccountAtAGlance.Tests\bin\Debug\Antlr3.Runtime.dll
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\AccountAtAGlance2012\AccountAtAGlance.Tests\bin\Debug\AccountAtAGlance.Repository.Fakes.fakesconfig
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\AccountAtAGlance2012\AccountAtAGlance.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\AccountAtAGlance2012\AccountAtAGlance.Tests\bin\Debug\Newtonsoft.Json.xml
+D:\Dropbox\Public\AccountAtAGlance2012\AccountAtAGlance.Tests\bin\Debug\AccountAtAGlance.Tests.dll.config
+D:\Dropbox\Public\AccountAtAGlance2012\AccountAtAGlance.Tests\bin\Debug\AccountAtAGlance.Tests.dll
+D:\Dropbox\Public\AccountAtAGlance2012\AccountAtAGlance.Tests\bin\Debug\AccountAtAGlance.Tests.pdb
+D:\Dropbox\Public\AccountAtAGlance2012\AccountAtAGlance.Tests\bin\Debug\AccountAtAGlance.Repository.Fakes.fakesconfig
+D:\Dropbox\Public\AccountAtAGlance2012\AccountAtAGlance.Tests\bin\Debug\AccountAtAGlance.dll
+D:\Dropbox\Public\AccountAtAGlance2012\AccountAtAGlance.Tests\bin\Debug\AccountAtAGlance.Model.dll
+D:\Dropbox\Public\AccountAtAGlance2012\AccountAtAGlance.Tests\bin\Debug\AccountAtAGlance.Repository.dll
+D:\Dropbox\Public\AccountAtAGlance2012\AccountAtAGlance.Tests\bin\Debug\AccountAtAGlance.Repository.Fakes.dll
+D:\Dropbox\Public\AccountAtAGlance2012\AccountAtAGlance.Tests\bin\Debug\EntityFramework.dll
+D:\Dropbox\Public\AccountAtAGlance2012\AccountAtAGlance.Tests\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+D:\Dropbox\Public\AccountAtAGlance2012\AccountAtAGlance.Tests\bin\Debug\Newtonsoft.Json.dll
+D:\Dropbox\Public\AccountAtAGlance2012\AccountAtAGlance.Tests\bin\Debug\System.Web.Http.dll
+D:\Dropbox\Public\AccountAtAGlance2012\AccountAtAGlance.Tests\bin\Debug\System.Web.Optimization.dll
+D:\Dropbox\Public\AccountAtAGlance2012\AccountAtAGlance.Tests\bin\Debug\Microsoft.Practices.Unity.dll
+D:\Dropbox\Public\AccountAtAGlance2012\AccountAtAGlance.Tests\bin\Debug\System.Web.Http.WebHost.dll
+D:\Dropbox\Public\AccountAtAGlance2012\AccountAtAGlance.Tests\bin\Debug\System.Net.Http.Formatting.dll
+D:\Dropbox\Public\AccountAtAGlance2012\AccountAtAGlance.Tests\bin\Debug\AccountAtAGlance.Model.pdb
+D:\Dropbox\Public\AccountAtAGlance2012\AccountAtAGlance.Tests\bin\Debug\AccountAtAGlance.Repository.pdb
+D:\Dropbox\Public\AccountAtAGlance2012\AccountAtAGlance.Tests\bin\Debug\AccountAtAGlance.pdb
+D:\Dropbox\Public\AccountAtAGlance2012\AccountAtAGlance.Tests\bin\Debug\AccountAtAGlance.Repository.Fakes.xml
+D:\Dropbox\Public\AccountAtAGlance2012\AccountAtAGlance.Tests\bin\Debug\EntityFramework.xml
+D:\Dropbox\Public\AccountAtAGlance2012\AccountAtAGlance.Tests\bin\Debug\Newtonsoft.Json.xml
+D:\Dropbox\Public\AccountAtAGlance2012\AccountAtAGlance.Tests\bin\Debug\System.Web.Http.xml
+D:\Dropbox\Public\AccountAtAGlance2012\AccountAtAGlance.Tests\bin\Debug\Microsoft.Practices.Unity.xml
+D:\Dropbox\Public\AccountAtAGlance2012\AccountAtAGlance.Tests\bin\Debug\System.Web.Http.WebHost.xml
+D:\Dropbox\Public\AccountAtAGlance2012\AccountAtAGlance.Tests\bin\Debug\System.Net.Http.Formatting.xml
+D:\Dropbox\Public\AccountAtAGlance2012\AccountAtAGlance.Tests\obj\Debug\AccountAtAGlance.Tests.csprojFakesResolveAssemblyReference.cache
+D:\Dropbox\Public\AccountAtAGlance2012\AccountAtAGlance.Tests\obj\Debug\Fakes\aaagr\b\AccountAtAGlance.dll
+D:\Dropbox\Public\AccountAtAGlance2012\AccountAtAGlance.Tests\obj\Debug\Fakes\aaagr\b\AccountAtAGlance.Model.dll
+D:\Dropbox\Public\AccountAtAGlance2012\AccountAtAGlance.Tests\obj\Debug\Fakes\aaagr\b\AccountAtAGlance.Model.pdb
+D:\Dropbox\Public\AccountAtAGlance2012\AccountAtAGlance.Tests\obj\Debug\Fakes\aaagr\b\AccountAtAGlance.pdb
+D:\Dropbox\Public\AccountAtAGlance2012\AccountAtAGlance.Tests\obj\Debug\Fakes\aaagr\b\AccountAtAGlance.Repository.dll
+D:\Dropbox\Public\AccountAtAGlance2012\AccountAtAGlance.Tests\obj\Debug\Fakes\aaagr\b\AccountAtAGlance.Repository.Fakes.dll
+D:\Dropbox\Public\AccountAtAGlance2012\AccountAtAGlance.Tests\obj\Debug\Fakes\aaagr\b\AccountAtAGlance.Repository.Fakes.fakesconfig
+D:\Dropbox\Public\AccountAtAGlance2012\AccountAtAGlance.Tests\obj\Debug\Fakes\aaagr\b\AccountAtAGlance.Repository.Fakes.pdb
+D:\Dropbox\Public\AccountAtAGlance2012\AccountAtAGlance.Tests\obj\Debug\Fakes\aaagr\b\AccountAtAGlance.Repository.Fakes.xml
+D:\Dropbox\Public\AccountAtAGlance2012\AccountAtAGlance.Tests\obj\Debug\Fakes\aaagr\b\AccountAtAGlance.Repository.pdb
+D:\Dropbox\Public\AccountAtAGlance2012\AccountAtAGlance.Tests\obj\Debug\Fakes\aaagr\b\EntityFramework.dll
+D:\Dropbox\Public\AccountAtAGlance2012\AccountAtAGlance.Tests\obj\Debug\Fakes\aaagr\b\EntityFramework.xml
+D:\Dropbox\Public\AccountAtAGlance2012\AccountAtAGlance.Tests\obj\Debug\Fakes\aaagr\b\Microsoft.Practices.Unity.dll
+D:\Dropbox\Public\AccountAtAGlance2012\AccountAtAGlance.Tests\obj\Debug\Fakes\aaagr\b\Microsoft.Practices.Unity.xml
+D:\Dropbox\Public\AccountAtAGlance2012\AccountAtAGlance.Tests\obj\Debug\Fakes\aaagr\b\Microsoft.QualityTools.Testing.Fakes.dll
+D:\Dropbox\Public\AccountAtAGlance2012\AccountAtAGlance.Tests\obj\Debug\Fakes\aaagr\b\Newtonsoft.Json.dll
+D:\Dropbox\Public\AccountAtAGlance2012\AccountAtAGlance.Tests\obj\Debug\Fakes\aaagr\b\Newtonsoft.Json.xml
+D:\Dropbox\Public\AccountAtAGlance2012\AccountAtAGlance.Tests\obj\Debug\Fakes\aaagr\b\System.Net.Http.Formatting.dll
+D:\Dropbox\Public\AccountAtAGlance2012\AccountAtAGlance.Tests\obj\Debug\Fakes\aaagr\b\System.Net.Http.Formatting.xml
+D:\Dropbox\Public\AccountAtAGlance2012\AccountAtAGlance.Tests\obj\Debug\Fakes\aaagr\b\System.Web.Http.dll
+D:\Dropbox\Public\AccountAtAGlance2012\AccountAtAGlance.Tests\obj\Debug\Fakes\aaagr\b\System.Web.Http.WebHost.dll
+D:\Dropbox\Public\AccountAtAGlance2012\AccountAtAGlance.Tests\obj\Debug\Fakes\aaagr\b\System.Web.Http.WebHost.xml
+D:\Dropbox\Public\AccountAtAGlance2012\AccountAtAGlance.Tests\obj\Debug\Fakes\aaagr\b\System.Web.Http.xml
+D:\Dropbox\Public\AccountAtAGlance2012\AccountAtAGlance.Tests\obj\Debug\Fakes\aaagr\b\System.Web.Optimization.dll
+D:\Dropbox\Public\AccountAtAGlance2012\AccountAtAGlance.Tests\obj\Debug\Fakes\aaagr\f.ah
+D:\Dropbox\Public\AccountAtAGlance2012\AccountAtAGlance.Tests\obj\Debug\Fakes\aaagr\f.ch
+D:\Dropbox\Public\AccountAtAGlance2012\AccountAtAGlance.Tests\obj\Debug\Fakes\aaagr\f.cs
+D:\Dropbox\Public\AccountAtAGlance2012\AccountAtAGlance.Tests\obj\Debug\Fakes\aaagr\f.csproj
+D:\Dropbox\Public\AccountAtAGlance2012\AccountAtAGlance.Tests\obj\Debug\Fakes\aaagr\f.fakes
+D:\Dropbox\Public\AccountAtAGlance2012\AccountAtAGlance.Tests\obj\Debug\Fakes\aaagr\f.fakesconfig
+D:\Dropbox\Public\AccountAtAGlance2012\AccountAtAGlance.Tests\obj\Debug\Fakes\aaagr\o\AccountAtAGlance.Repository.Fakes.dll
+D:\Dropbox\Public\AccountAtAGlance2012\AccountAtAGlance.Tests\obj\Debug\Fakes\aaagr\o\AccountAtAGlance.Repository.Fakes.pdb
+D:\Dropbox\Public\AccountAtAGlance2012\AccountAtAGlance.Tests\obj\Debug\Fakes\aaagr\o\f.csproj.FileListAbsolute.txt
+D:\Dropbox\Public\AccountAtAGlance2012\AccountAtAGlance.Tests\obj\Debug\Fakes\aaagr\o\f.csprojResolveAssemblyReference.cache
+D:\Dropbox\Public\AccountAtAGlance2012\AccountAtAGlance.Tests\obj\Debug\Fakes\fakes.args
+D:\Dropbox\Public\AccountAtAGlance2012\AccountAtAGlance.Tests\obj\Debug\AccountAtAGlance.Tests.csprojResolveAssemblyReference.cache
+D:\Dropbox\Public\AccountAtAGlance2012\AccountAtAGlance.Tests\obj\Debug\AccountAtAGlance.Tests.dll
+D:\Dropbox\Public\AccountAtAGlance2012\AccountAtAGlance.Tests\obj\Debug\AccountAtAGlance.Tests.pdb
+D:\Dropbox\Public\AccountAtAGlance2012\AccountAtAGlance.Tests\obj\Debug\Fakes\aaagr\b\EntityFramework.SqlServer.dll
+D:\Dropbox\Public\AccountAtAGlance2012\AccountAtAGlance.Tests\obj\Debug\Fakes\aaagr\b\EntityFramework.SqlServer.xml
+D:\Dropbox\Public\AccountAtAGlance2012\AccountAtAGlance.Tests\obj\Debug\Fakes\aaagr\b\System.Web.Optimization.xml
+D:\Dropbox\Public\AccountAtAGlance2012\AccountAtAGlance.Tests\obj\Debug\Fakes\aaagr\b\System.Web.WebPages.Deployment.dll
+D:\Dropbox\Public\AccountAtAGlance2012\AccountAtAGlance.Tests\obj\Debug\Fakes\aaagr\b\System.Web.WebPages.Deployment.xml
+D:\Dropbox\Public\AccountAtAGlance2012\AccountAtAGlance.Tests\obj\Debug\Fakes\aaagr\b\System.Web.WebPages.dll
+D:\Dropbox\Public\AccountAtAGlance2012\AccountAtAGlance.Tests\obj\Debug\Fakes\aaagr\b\System.Web.WebPages.xml
+D:\Dropbox\Public\AccountAtAGlance2012\AccountAtAGlance.Tests\obj\Debug\Fakes\aaagr\b\System.Web.Mvc.dll
+D:\Dropbox\Public\AccountAtAGlance2012\AccountAtAGlance.Tests\obj\Debug\Fakes\aaagr\b\System.Web.Mvc.xml
+D:\Dropbox\Public\AccountAtAGlance2012\AccountAtAGlance.Tests\bin\Debug\EntityFramework.SqlServer.dll
+D:\Dropbox\Public\AccountAtAGlance2012\AccountAtAGlance.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\Dropbox\Public\AccountAtAGlance2012\AccountAtAGlance.Tests\bin\Debug\System.Web.Helpers.dll
+D:\Dropbox\Public\AccountAtAGlance2012\AccountAtAGlance.Tests\bin\Debug\System.Web.Mvc.dll
+D:\Dropbox\Public\AccountAtAGlance2012\AccountAtAGlance.Tests\bin\Debug\System.Web.WebPages.dll
+D:\Dropbox\Public\AccountAtAGlance2012\AccountAtAGlance.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\Dropbox\Public\AccountAtAGlance2012\AccountAtAGlance.Tests\bin\Debug\EntityFramework.SqlServer.xml
+D:\Dropbox\Public\AccountAtAGlance2012\AccountAtAGlance.Tests\bin\Debug\System.Web.Helpers.xml
+D:\Dropbox\Public\AccountAtAGlance2012\AccountAtAGlance.Tests\bin\Debug\System.Web.Mvc.xml
+D:\Dropbox\Public\AccountAtAGlance2012\AccountAtAGlance.Tests\bin\Debug\System.Web.Optimization.xml
+D:\Dropbox\Public\AccountAtAGlance2012\AccountAtAGlance.Tests\bin\Debug\System.Web.WebPages.xml
+D:\Dropbox\Public\AccountAtAGlance2012\AccountAtAGlance.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\Dropbox\Public\AccountAtAGlance2012\AccountAtAGlance.Tests\obj\Debug\Fakes\aaagr\b\System.Web.Helpers.dll
+D:\Dropbox\Public\AccountAtAGlance2012\AccountAtAGlance.Tests\obj\Debug\Fakes\aaagr\b\System.Web.Helpers.xml
